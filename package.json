@@ -28,5 +28,9 @@
     "research",
     "relational"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenticule-science/relational-orientation-research-desk.git"
+  }
 }
